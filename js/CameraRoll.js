@@ -7,8 +7,9 @@
  * @flow
  * @format
  */
-import { Platform } from 'react-native';
+'use strict';
 import RNCCameraRoll from './nativeInterface';
+import { Platform } from 'react-native';
 
 const invariant = require('fbjs/lib/invariant');
 
